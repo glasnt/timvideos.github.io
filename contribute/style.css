@@ -7,10 +7,6 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300&subset=latin,latin-ext); /*latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic*/
 
-* {
-margin: 0;
-padding: 0;
-}
 
 html {
     background-image: url("./bg.png");
